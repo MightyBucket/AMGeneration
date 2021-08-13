@@ -1,0 +1,10 @@
+External libraries:
+We need to install the following pip packages:
+ - simple-3dviz
+ - wxPython
+
+To do this, do the following:
+1. Open up cmd
+2. Go to Program Files/FreeCAD 0.19/bin/
+3. Enter command "python -m pip install simple-3dviz"
+4. Enter command "python -m pip install wxPython"
