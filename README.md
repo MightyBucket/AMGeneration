@@ -10,7 +10,7 @@ FreeCAD 0.19 can be downloaded for free from https://www.freecadweb.org/
 
 Once installed, you must manually copy the 'AMGeneration2' folder to the user 'Macro' directory for FreeCAD. On Windows, this is normally found in the following directory:
 
-`C:\Users\\*UserName*\AppData\Roaming\FreeCAD\Mod\`
+`C:\Users\*UserName*\AppData\Roaming\FreeCAD\Mod\`
 
 Where `UserName` is replaced with the name of your user profile.
 
@@ -28,7 +28,7 @@ FreeCAD has its own built in Python interpreter where these packages must be ins
 To do this, do the following:
 1. Open up cmd
 2. Go to Program Files/FreeCAD 0.19/bin/
-3. Enter command `"python -m pip install simple-3dviz"`
-4. Enter command `"python -m pip install wxPython"`
+3. Enter command `python -m pip install simple-3dviz`
+4. Enter command `python -m pip install wxPython`
 
 (C) Rahul Jhuree, 2021
