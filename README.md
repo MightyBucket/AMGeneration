@@ -8,13 +8,15 @@ This folder contains the code for a workbench plug-in for FreeCAD. Therefore you
 
 FreeCAD 0.19 can be downloaded for free from https://www.freecadweb.org/
 
-Once installed, you must manually copy the 'AMGeneration2' folder to the user 'Macro' directory for FreeCAD. On Windows, this is normally found in the following directory:
+Once installed, you must manually copy the 'AMGeneration2' folder to the user 'Mod' directory for FreeCAD. On Windows, this is normally found in the following directory:
 
 `C:\Users\*UserName*\AppData\Roaming\FreeCAD\Mod\`
 
 Where `UserName` is replaced with the name of your user profile.
 
 Once copied, start up FreeCAD. From the workbench selection drop down menu in the top middle of the window, you should see the option for "AM Generation v2". Selecting this will activate the workbench.
+
+Not all of the functions will work out of the box. Some dependencies need to be installed first, which is detailed in the section below.
 
 Have fun!
 
